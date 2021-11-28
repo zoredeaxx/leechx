@@ -1,4 +1,4 @@
-FROM ghcr.io/xcodershub/torrentleechx:latest
+FROM ghcr.io/kangershub/torrentleechx:latest
 
 COPY . .
 
